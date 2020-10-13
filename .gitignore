@@ -1,0 +1,5 @@
+# Project exclude paths
+/Oauth2AuthorizeCode/target/
+/Oauth2Client/target/
+/Oauth2Password/target/
+/Oauth2PasswordToken/target/
